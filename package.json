@@ -1,0 +1,25 @@
+{
+  "name": "slugify-unicode",
+  "version": "1.0.0",
+  "description": "unicode supported slugify ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shsohel/slugify-unicode.git"
+  },
+  "keywords": [
+    "Slug",
+    "Slugify",
+    "Uncode",
+    "Slugify"
+  ],
+  "author": "SH SOHEL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shsohel/slugify-unicode/issues"
+  },
+  "homepage": "https://github.com/shsohel/slugify-unicode#readme"
+}
