@@ -1,6 +1,6 @@
 {
   "name": "slugify-unicode",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "unicode supported slugify ",
   "main": "index.js",
   "scripts": {
