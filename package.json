@@ -1,5 +1,5 @@
 {
-  "name": "@prosohel/slugify-unicode",
+  "name": "slugify-unicode",
   "version": "1.0.2",
   "description": "unicode supported slugify ",
   "main": "index.js",
